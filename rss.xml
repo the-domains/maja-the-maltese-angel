@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[Maja the Maltese Angel]]></title>
         <description><![CDATA[Maja the Maltese Angel]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/maja-the-maltese-angel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 14:24:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 14:24:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/maja-the-maltese-angel/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77396769-be71-4737-ad68-347342e89fb8.jpg">]]></description>
-            <link>undefinedmaja-and-her-favourite-toy/index.html</link>
+            <link>https://thegrid.ai/maja-the-maltese-angel/maja-and-her-favourite-toy/index.html</link>
             <guid isPermaLink="false">5cf50be5-bd83-4a1b-849a-3d4169f17c1a</guid>
+            <pubDate>Tue, 12 Apr 2016 14:24:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa048285-4175-4d6b-930c-4c45ce9df03a.jpg">]]></description>
+            <link>https://thegrid.ai/maja-the-maltese-angel/36e6f4d4-af5c-45af-9beb-d1e28e148730/index.html</link>
+            <guid isPermaLink="false">36e6f4d4-af5c-45af-9beb-d1e28e148730</guid>
             <pubDate>Tue, 12 Apr 2016 14:24:03 GMT</pubDate>
         </item>
     </channel>
